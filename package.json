@@ -10,7 +10,7 @@
     "good-boye": "./good-boye.sh"
   },
   "peerDependencies": {
-    "husky": "^0.14.3",
+    "husky": "^1.0.0-rc.13",
     "xo": "^0.22.0"
   }
 }
